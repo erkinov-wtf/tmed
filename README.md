@@ -1,66 +1,53 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+﻿
+<h1 align="center"> Therapy Med </h1>
+<p align="center"><a href="https://github.com/webhire/therapymed" target="_blank"><img src="https://github.com/webhire/therapymed/blob/main/public/assets/img/main.png?raw=true" width="400"></a></p>
 
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+<img alt="GitHub" src="https://img.shields.io/github/license/WebHire/therapymed?logo=github">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/erkinov-wtf/tmed">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/webhire/therapymed">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/erkinov-wtf/tmed?label=Last%20Commit">
 </p>
 
-## About Laravel
+<p align="center"><img src="https://github.com/webhire/therapymed/blob/main/public/assets/img/logo.png?raw=true"></p>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Main Reference Note
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+This repository is now only for alpha versions. The main repository is in the [WebHire](https://github.com/webhire/) page. Please don't think that I'm some crazy ass)). And if you go to website, there would be old version, cuz im super lazy to upload files(i will do that after the v0.3 is fully ready).
 
-## Learning Laravel
+## What's new in version - 0.3.0@alpha
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+- SPA(Single Page Application) technology is used
+- Livewire version 3 is now supported 
+- Only backend was improved 
+- Optimised respond time
+- Database is not changes at all. The upcoming version will be full version
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+> In order to be irreplaceable, one must always be different
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## Tech used
 
-## Laravel Sponsors
+Therapy Med uses a number of open source projects to work properly:
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+- [Laravel](https://laravel.com) - The PHP Framework For Web Artisans
+- [Livewire](https://livewire.laravel.com/) - Powerful, dynamic, front-end UIs without leaving PHP.
 
-### Premium Partners
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+And of course Therapy Med itself is open source with a [public repository](https://github.com/erkinov-wtf/tmed)
+on GitHub.
 
-## Contributing
+## Usage
+All you need is to go to website below:
+> [therapymed.webhire.uz](http://therapymed.webhire.uz)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+## Additional Notes
 
-## Code of Conduct
+The Therapy Med application is now under the construction, so while visiting the web application you may face with some bugs, long respond time, UI inconvience and other unexpected things. Hence, wait up for the upcoming updates!
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+Feel free to contact to developer by links below:
+- [Telegram](https://t.me/erkinov_wiz)
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+[Licensed under MIT](https://github.com/webhire/therapymed/blob/main/LICENSE)
